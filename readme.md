@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: chetandhakad55@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/chetandkd11/chetandkd11/issues)
 
 </p>
 
@@ -116,13 +116,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/chetandkd11">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/chetandkd11">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Chetan's GitHub Contribution"/>
   </a>
 </p>
