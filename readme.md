@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Dhakad</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm Chetan Dhakad,  and Data Analysis Enthusiast a Data Scientist, with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.</h3>
+<h3 align="center">Welcome to my GitHub profile! <br> I'm Chetan Dhakad and Data Analysis Enthusiast. A Data Scientist, with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.</h3>
 
 <img align="right" alt="Data Analysis" width="400" src="75ez.gif">
 
@@ -23,7 +23,12 @@
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chetandkd11&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chetandkd11&layout=compact&langs_count=8&theme=dark&hide_border=true"/>](https://github.com/chetandkd11)
 
 ## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chetandkd11&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=chetandkd11&theme=dark&hide_border=true" alt="GitHub Streak" />
+ </a>
+</div>
+
 
 
 
